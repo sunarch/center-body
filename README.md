@@ -10,6 +10,8 @@ tech people I like to read and archives of mailing lists.
 I find it more comfortable to center them, and this add-on makes that process
 the push of a button. Maybe someone else gets some use out of it too.
 
+On add-on site: [Center Body](https://addons.mozilla.org/en-US/firefox/addon/center-body/).
+
 ### Compatibility
 
 Tested with Firefox 100.0.2 under Ubuntu (Linux).
