@@ -1,0 +1,42 @@
+{
+  "manifest_version": 2,
+  "name": "Center Body",
+  "short_name": "Center Body",
+  "version": "1.0.0",
+  "author": "András Németh",
+  "homepage_url": "https://github.com/sunarch/center-body",
+
+  "description": "Center <body> with the push of a toolbar button.",
+
+  "icons": {
+    "12": "icons/center-body-12.png",
+    "16": "icons/center-body-16.png",
+    "20": "icons/center-body-20.png",
+    "24": "icons/center-body-24.png",
+    "32": "icons/center-body-32.png",
+    "48": "icons/center-body-48.png",
+    "96": "icons/center-body-96.png",
+    "128": "icons/center-body-128.png"
+  },
+
+  "browser_action": {
+    "default_icon": {
+      "12": "icons/center-body-12.png",
+      "16": "icons/center-body-16.png",
+      "20": "icons/center-body-20.png",
+      "24": "icons/center-body-24.png",
+      "32": "icons/center-body-32.png",
+      "48": "icons/center-body-48.png",
+      "96": "icons/center-body-96.png",
+      "128": "icons/center-body-128.png"
+    },
+    "default_title": "Center Body"
+  },
+
+  "background": {
+    "scripts": ["center-body.js"]
+  },
+  
+  "permissions": ["activeTab"]
+
+}
