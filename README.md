@@ -14,7 +14,7 @@ On add-on site: [Center Body](https://addons.mozilla.org/en-US/firefox/addon/cen
 
 ### Compatibility
 
-Tested with Firefox 100.0.2 under Ubuntu (Linux).
+Tested with Firefox 114 under Ubuntu (Linux).
 
 ### Other projects
 
